@@ -153,6 +153,10 @@ PRODUCT_PACKAGES += \
     android.hardware.drm@1.0-impl \
     android.hardware.drm@1.0-service
 
+# Doze
+PRODUCT_PACKAGES += \
+    XiaomiDoze
+
 # Ebtables
 PRODUCT_PACKAGES += \
     ebtables \
